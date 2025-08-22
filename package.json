@@ -1,6 +1,6 @@
 {
   "name": "react-native-status-indicator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A lightweight React Native component with NativeWind (TailwindCSS) support for showing a pulsing status indicator. Fully customizable with Tailwind classes for color and size.",
   "keywords": [],
   "homepage": "https://github.com/ahmad2point0/react-native-status-indicator#readme",
